@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "270751749201",
+    "firebase_url": "https://kumbara-plus.firebaseio.com",
+    "project_id": "kumbara-plus",
+    "storage_bucket": "kumbara-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270751749201:android:ca6203e8525746e5eb9470",
+        "android_client_info": {
+          "package_name": "com.example.kumbara_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270751749201-2mmq6b5520j7esjpmdqh4nq6lupob8kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_CsFNpM5-neWfn3LNJfOLwJrBDuZYYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270751749201-2mmq6b5520j7esjpmdqh4nq6lupob8kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270751749201:android:d3712bf00fb8d387eb9470",
+        "android_client_info": {
+          "package_name": "com.kumbaraplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270751749201-2mmq6b5520j7esjpmdqh4nq6lupob8kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo_CsFNpM5-neWfn3LNJfOLwJrBDuZYYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270751749201-2mmq6b5520j7esjpmdqh4nq6lupob8kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
